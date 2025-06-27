@@ -22,8 +22,7 @@ Tested URL:  https://www.jobs.nhs.uk/candidate/search]
 - WebDriverManager
 - Maven
 
-Run on Command line using
-mvn clean test
+Run on Command line using: mvn clean test
 
 
 
